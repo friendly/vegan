@@ -7,7 +7,7 @@
   ChangeLog in \pkg{vegan}, or vignettes in \pkg{permute}. }
 
 \usage{
-vegandocs(doc = c("NEWS", "ONEWS", "FAQ-vegan.pdf",
+vegandocs(doc = c("NEWS", "ONEWS", "FAQ-vegan",
     "intro-vegan.pdf", "diversity-vegan.pdf", "decision-vegan.pdf",
     "partitioning.pdf", "permutations.pdf"))
 }
